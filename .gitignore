@@ -1,0 +1,11 @@
+app/
+.DS_Store
+__pycache__/
+.vscode
+htmlcov/
+.pytest_cache
+.coverage
+deploy.sh
+docker-compose.yml
+Dockerfile
+Procfile
