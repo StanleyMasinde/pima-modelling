@@ -9,3 +9,4 @@ deploy.sh
 docker-compose.yml
 Dockerfile
 Procfile
+.flake8
