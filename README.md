@@ -1,5 +1,5 @@
 # PIMA Diabetes Modelling
-Analyzing the pima dataset and deploying a prediction model. 
+Analyzing the pima dataset,build and deploying a prediction model. 
 
 
 ## Deployment
